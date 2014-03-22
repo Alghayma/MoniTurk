@@ -1,0 +1,5 @@
+{
+  TurkTelecom: {
+    public_resolvers:["195.175.254.2"]
+  }
+}
